@@ -1,0 +1,14 @@
+[2025-11-07 22:24:24] [/workspaces/In-Class-Exercise-5] source .devcontainer/shell.sh
+[2025-11-07 22:26:12] [/workspaces/In-Class-Exercise-5] chmod +x variables.sh 
+[2025-11-07 22:26:15] [/workspaces/In-Class-Exercise-5] ls
+[2025-11-07 22:26:25] [/workspaces/In-Class-Exercise-5] ./variables.sh 
+[2025-11-07 22:27:09] [/workspaces/In-Class-Exercise-5] ./variables.sh 
+[2025-11-07 22:28:11] [/workspaces/In-Class-Exercise-5] ./variables.sh 
+[2025-11-07 22:28:30] [/workspaces/In-Class-Exercise-5] ./variables.sh 
+[2025-11-07 22:28:49] [/workspaces/In-Class-Exercise-5] chmod +x conditions.sh 
+[2025-11-07 22:31:01] [/workspaces/In-Class-Exercise-5] ./conditions.sh 
+[2025-11-07 22:32:25] [/workspaces/In-Class-Exercise-5] chmod +x loops.sh 
+[2025-11-07 22:32:37] [/workspaces/In-Class-Exercise-5] ./loops.sh 
+[2025-11-07 22:34:23] [/workspaces/In-Class-Exercise-5] ./loops.sh 
+[2025-11-07 22:35:22] [/workspaces/In-Class-Exercise-5] ./loops.sh 
+[2025-11-07 22:35:33] [/workspaces/In-Class-Exercise-5] ./loops.sh 
